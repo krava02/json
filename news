@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "thumbnailUrl": "https://img.freepik.com/fotos-gratis/foto-de-grande-angular-de-uma-unica-arvore-crescendo-sob-um-ceu-nublado-durante-um-por-do-sol-cercado-por-grama_181624-22807.jpg?w=2000",
+    "date": "02.11.2023",
+    "title": "Супер новина 1",
+    "text": "Супер новина 11"
+  },
+  {
+    "id": 2,
+    "thumbnailUrl": "https://img.freepik.com/fotos-gratis/foto-de-grande-angular-de-uma-unica-arvore-crescendo-sob-um-ceu-nublado-durante-um-por-do-sol-cercado-por-grama_181624-22807.jpg?w=2000",
+    "date": "02.12.2023",
+    "title": "Супер новина 2",
+    "text": "Супер новина 22"
+  },
+  {
+    "id": 3,
+    "thumbnailUrl": "https://img.freepik.com/fotos-gratis/foto-de-grande-angular-de-uma-unica-arvore-crescendo-sob-um-ceu-nublado-durante-um-por-do-sol-cercado-por-grama_181624-22807.jpg?w=2000",
+    "date": "02.10.2023",
+    "title": "Супер новина 3",
+    "text": "Супер новина 33"
+  },
+  {
+    "id": 2,
+    "thumbnailUrl": "https://img.freepik.com/fotos-gratis/foto-de-grande-angular-de-uma-unica-arvore-crescendo-sob-um-ceu-nublado-durante-um-por-do-sol-cercado-por-grama_181624-22807.jpg?w=2000",
+    "date": "02.10.2023",
+    "title": "Супер новина 2",
+    "text": "Супер новина 22"
+  }
+]
